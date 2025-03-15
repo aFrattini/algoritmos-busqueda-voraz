@@ -1,4 +1,4 @@
-# Optimización de Cobertura de Radio para Beyoncé 🎵
+# Optimización de Cobertura de Radio para Beyoncé
 
 ## Descripción del Problema
 Queremos encontrar la combinación mínima de estaciones de radio para garantizar que Beyoncé pueda ser escuchada en 22 estados. Solo contamos con 13 estaciones y debemos seleccionar una combinación óptima de máximo 10 estaciones.
